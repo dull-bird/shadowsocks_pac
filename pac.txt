@@ -1,4 +1,6 @@
-﻿var __USERRULES__ = [];
+﻿var __USERRULES__ = [
+"||openai.com"
+ ];
 var __RULES__ = [
   "@@||local",
   "@@||localhost",
